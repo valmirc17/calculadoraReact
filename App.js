@@ -95,7 +95,7 @@ export default function App() {
   );
 }
 
-// Tema do Material Design com cores pastel
+// Tema
 const theme = {
   ...DefaultTheme,
   colors: {
